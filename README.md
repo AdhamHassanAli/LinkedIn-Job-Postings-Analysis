@@ -24,7 +24,7 @@ Welcome to my Power BI project analyzing LinkedIn job postings using a real-worl
 ✔️ **Interactive filters** for exploring specific insights
 ---
 ## 📷 Dashboard Preview
-![Screenshot 1](ScreenShots/1.png)
+![Screenshot 1]([ScreenShots/1.jpg](https://github.com/AdhamHassanAli/LinkedIn-Job-Postings-Analysis/blob/cfc9d3821e7d1debc824b4ce3fe8539f4b55e050/ScreenShots/1.jpg))
 ![Screenshot 2](ScreenShots/2.png)
 ![Screenshot 3](ScreenShots/3.png)
 
